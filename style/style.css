@@ -1,0 +1,18 @@
+body {
+  /* The image URL should be the path to your image */
+  background-image: url('../images/main_pharma.jpg');
+
+  /* Ensure the image covers the entire page */
+  background-size: cover;
+
+  /* Set the background image to no-repeat */
+  background-repeat: no-repeat;
+
+  /* Fix the background image so that it doesn't scroll with the page */
+  background-attachment: fixed;
+
+  /* Position the background image */
+  background-position: center;
+
+  /* Increase The Opacity Of The Image */
+}
